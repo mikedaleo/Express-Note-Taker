@@ -1,5 +1,8 @@
 const notes = require('express').Router();
+// import a function that generates a random number for the id
 const { v4: uuidv4 } = require('uuid');
+
+// import helper functions to read, append and write to files
 const { readFromFile, readAndAppend, writeToFile } = require('../helpers/fsUtils');
 
 // GET route for retrieving all notes
