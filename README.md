@@ -3,7 +3,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   ## Description
-  An application that can be used to write and save notes.
+  An application that can be used to write and save notes.  
+  https://express-note-taker-d32b.onrender.com
   
   
   
@@ -16,8 +17,8 @@
 
   ## Screenshots
 
-  ![Screenshot](./public/assets/images/localhost_3001_.png)
-  ![Screenshot](./public/assets/images/localhost_3001_notes.png)
+  [![Screenshot](./public/assets/images/localhost_3001_.png)](https://express-note-taker-d32b.onrender.com)
+  [![Screenshot](./public/assets/images/localhost_3001_notes.png)](https://express-note-taker-d32b.onrender.com/notes)
 
   
   
